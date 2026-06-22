@@ -1,0 +1,9 @@
+{
+  "name": "audit-trifecta-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static landing page for The Audit Trifecta, ready for Vercel deployment.",
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
+}
